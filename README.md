@@ -21,6 +21,11 @@
 - Designing the layout of each booth followed a similar formula: title at the bottom, eye-catching figures showcasing the game’s theme on top, an array of interactive GameObjects in the front, collision GameObjects in the middle, and game instructions and a scoreboard at the back wall.
 - Lastly, we wanted to ensure that the user feels as if they are in for an experience. The second the user presses play, they are greeted with a welcome sign with a star rotating behind it. In addition, the player is also greeted by fun upbeat music we downloaded for fair use from Pixabay called positive-cartoon-loop.
 
+<img src = "Carnaval_VR/Images/Screenshot 2022-12-04 152242.png" width="400" height="200"> <img src = "Carnaval_VR/Images/Screenshot 2022-12-04 151346.png" width="400" height="200">
+
+<img src = "Carnaval_VR/Images/Screenshot 2022-12-04 151510.png" width="400" height="200"> <img src = "Carnaval_VR/Images/Screenshot 2022-12-04 151542.png" width="400" height="200">
+
+
 `Control Design`
 - Using the Oculus Touch controllers allows users to be completely immersed into the world of Bob&Rod’s. With the Touch controllers, users are able to physically grab rings/chickens/weapons and use them in a way that mimics real life. In addition, by choosing to use the Touch controllers, decreases remapping motor programs in VR. If we were to use a keyboard or a mouse we lose the natural and intuitive, gesture-driven interactions that make VR so immersive. 
 - When it comes to mapping controls to actions in the virtual world, the user is able to utilize the Touch controllers just as much as the VR Headset. To traverse through the world, the user is able to move with the left joystick. To rotate the user has two options: to physically move their body or to use the right joystick to look in a certain direction. To grab we attached hands to the user’s controller to simulate the grabbing motion.
