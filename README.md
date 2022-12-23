@@ -6,7 +6,7 @@
 - What makes Bob&Rod’s so interesting is the immersive experience and out-of-the-ordinary approaches to classic carnival games. At Angry Birds, the user is able to throw chickens at towers of cans to mimic the idea of the worldwide mobile game phenomenon, Angry Birds. At Put a Ring On It! the user is able to practice proposing to their special someone by throwing a ring on greater-than-life-sized fingers. At Food Fight, the user able to live out their high school fantasy of a high school cafeteria food fight by choosing one of many foodie weapons to fight dummy enemies.
 - Bob&Rod’s utilization of VR enhances the carnival gameplay tenfold. Set at the bottom of a scenic mountain range, the user is able to be quickly immersed in the life of a carnival. Placed at the center of the three booths, the user is already provided the space to enjoy the world from all angles. With Angry Birds, the user is able to crash the cans with more than just a wiffle ball. With VR, the classic game of can toss can be viewed in a much more enticing and exciting way by throwing live chickens. With Put a Ring On It!, VR allows developers to take a creative spin on the game of ring toss by replacing the poles with fingers. As for Food Fight, the user must defend themselves from dummy enemies from all angles. With this booth, we are able to take advantage of the space that the VR medium grants us by allowing the user to physically move and rotate. 
 
-![INTRO!](Bob-Rod-s-VR-Carnival/Carnival_VR/Images/intro_1.png)
+![INTRO!](Carnaval_VR/Images/intro_1.png)
 
 ### Design
 `Landscape Design`
