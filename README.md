@@ -12,7 +12,7 @@
 `Landscape Design`
 - When designing the world of Bob&Rod’s, it was important to us that despite the short timeline to complete the project, we wanted to ensure the user’s experience is up to par with fully scaled and implemented games. We did this by focussing on world-building. Taking advantage of free assets from the Unity Asset store, we kept close to a low-poly aesthetic by utilizing a handful of assets to build a landscape that encapsulated our carnival. Adding numerous trees, mountain ranges, hot air balloons, and a few clouds, the attention to detail was something we prioritized to grab the attention of the user and increase immersion as well as enjoyment.
 
-<img src = "Carnaval_VR/Images/Screenshot 2022-12-04 152021.png" width="500" height="300">
+<img src = "Carnaval_VR/Images/Screenshot 2022-12-04 152021.png" width="400" height="200">
 
 `Carnival Design`
 - When approaching the games the first thing we had to consider was booth design. We decided to construct the booths from scratch using unity’s 3D GameObjects in conjunction with free downloaded materials and textures from the Unity Asset Store. When designing the booth, we wanted to ensure that the booth itself had an open and dynamic shape. To execute this vision, we made sure to set the pillars at an angle to showcase depth and movement. We also set the front counter to be lower than the rest of the booth so that the player will be able to pick up objects with ease. 
