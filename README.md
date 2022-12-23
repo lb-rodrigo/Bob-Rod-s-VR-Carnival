@@ -14,6 +14,8 @@
 
 <img src = "Carnaval_VR/Images/Screenshot 2022-12-04 152021.png" width="400" height="200"> <img src = "Carnaval_VR/Images/Screenshot 2022-12-04 151922.png" width="400" height="200">
 
+<img src = "Carnaval_VR/Images/Screenshot 2022-12-04 151811.png" width="400" height="200"> <img src = "Carnaval_VR/Images/Screenshot 2022-12-04 152124.png" width="400" height="200">
+
 `Carnival Design`
 - When approaching the games the first thing we had to consider was booth design. We decided to construct the booths from scratch using unity’s 3D GameObjects in conjunction with free downloaded materials and textures from the Unity Asset Store. When designing the booth, we wanted to ensure that the booth itself had an open and dynamic shape. To execute this vision, we made sure to set the pillars at an angle to showcase depth and movement. We also set the front counter to be lower than the rest of the booth so that the player will be able to pick up objects with ease. 
 - Designing the layout of each booth followed a similar formula: title at the bottom, eye-catching figures showcasing the game’s theme on top, an array of interactive GameObjects in the front, collision GameObjects in the middle, and game instructions and a scoreboard at the back wall.
