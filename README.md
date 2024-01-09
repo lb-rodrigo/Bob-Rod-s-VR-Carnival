@@ -1,7 +1,7 @@
 # Bob & Rod's VR Carnival
 
 
-To A Demo [Click Here](https://www.youtube.com/watch?v=ZVExJthE2nw)
+To See Demo [Click Here](https://www.youtube.com/watch?v=ZVExJthE2nw)
 
 
 ### Introduction
